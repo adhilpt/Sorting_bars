@@ -1,2 +1,2 @@
-https://adhilpt.github.io/Sorting_bars/
-<h1>Click above to see</h1>
+
+<a href="https://adhilpt.github.io/Sorting_bars/" target="_blank">Visit Sorting bar</a>
